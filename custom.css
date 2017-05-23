@@ -1,0 +1,35 @@
+
+.adHeadHuge {
+    font-size: xx-large;
+    line-height: 150%;
+    text-align: center;
+}
+
+.adHeadLarge {
+    font-size: x-large;
+    line-height: 120%;
+    text-align: center;
+}
+
+.adTitle b {
+    font-size: x-large;
+    font-weight: normal;
+    line-height: 120%;
+}
+
+.adTitle {
+    margin-left: 2em;
+    text-indent: -2em;
+}
+
+.adContents {
+    margin-left: 2em;
+    text-indent: -2em;
+    font-size: small;
+
+}
+
+.adReview {
+    font-size: small;
+    line-height: 100%;
+}
